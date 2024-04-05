@@ -142,7 +142,7 @@ scale = Vector2(4, 4)
 sprite_frames = SubResource("SpriteFrames_pnldc")
 animation = &"parado"
 autoplay = "parado"
-frame_progress = 0.968938
+frame_progress = 0.117888
 speed_scale = 2.0
 
 [node name="Camera2D" type="Camera2D" parent="Personagems"]
